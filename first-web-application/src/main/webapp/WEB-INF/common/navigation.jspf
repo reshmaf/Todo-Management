@@ -1,0 +1,12 @@
+<nav class="navbar navbar-default">
+
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/list-todos.do">Home</a></li>
+			<li><a href="/add-todo.do">Add New Todo</a></li>
+		</ul>
+
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout.do">Logout</a></li>
+		</ul>
+
+</nav>
